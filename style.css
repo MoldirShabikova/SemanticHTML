@@ -1,0 +1,44 @@
+.container {
+  background-color: rgb(233, 153, 57);
+  text-align: center;
+  border: 5px solid grey;
+  height: 500px;
+  padding: 10px;
+}
+header {
+  background-color: rgb(186, 186, 186);
+  border: 5px solid grey;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+nav {
+  border: 5px solid grey;
+  padding: 10px;
+}
+.wrapper {
+  background-color: rgb(186, 186, 186);
+  border: 5px solid grey;
+  padding: 20px;
+  padding: 0 0 15px;
+  text-align: center;
+}
+main,
+aside {
+  border: 5px solid grey;
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+article {
+  border: 3px solid grey;
+  margin: 10px;
+}
+footer {
+  margin-top: 15px;
+  padding: 20px;
+  background-color: rgb(186, 186, 186);
+  border: 5px solid grey;
+}
